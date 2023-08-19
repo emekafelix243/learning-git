@@ -1,0 +1,23 @@
+[33mcommit 96c0bca203bd64b08a042fb16ca88f0a95460595[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: okeke <okeke243@gmail.com>
+Date:   Fri Aug 18 08:40:49 2023 -0700
+
+    Added main.go
+
+[33mcommit 88a81601eacd8501e98a184b716325a81c080569[m
+Author: okeke <okeke243@gmail.com>
+Date:   Wed Aug 16 07:24:35 2023 -0700
+
+    added body{} in main.css
+
+[33mcommit acd663dcbeab10053bf5199b949f43daba15bdf5[m
+Author: okeke <okeke243@gmail.com>
+Date:   Mon Aug 14 08:04:52 2023 -0700
+
+    added console.log
+
+[33mcommit 6d60cf177080fc33d1ebfcd6645c5be009371b34[m
+Author: okeke <okeke243@gmail.com>
+Date:   Mon Aug 14 07:21:20 2023 -0700
+
+    bootstrap project
